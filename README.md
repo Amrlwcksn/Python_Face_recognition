@@ -9,7 +9,7 @@
    	<p>'[namafolder]\Scripts\activate'<p>
 
 3. install opencv
-	<p>-'py -m pip install opencv-python'<p>
+	<p>'py -m pip install opencv-python'<p>
 	<p>'py -m pip install opencv-contrib-python'<p>
 	<p>'py -m pip install pillow'<p>
 
