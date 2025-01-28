@@ -14,7 +14,7 @@
 	<p>'py -m pip install pillow'<p>
 
 5. ambil data .xml sesuaikan dengan kebutuhan program, simpan kode dalam
-  format .xml (github: https://github.com/opencv/tree/master/data/haarcascades
+  format .xml (github: https://github.com/opencv/tree/master/data/haarcascades )
 
 6. buat folder untuk menyimpan data wajah yang akan di daftarkan Default = Dataset.
 
@@ -22,6 +22,6 @@
 
 8. jalankan training.py untuk mengubah data .jpg menjadi .xml agar dapat di baca oleh main.py
 
-9. Jalankan main.py makan wajah yang terdaftar akan di identifikasikan sebagai "Admin".
+9. Jalankan main.py maka wajah yang terdaftar akan di identifikasikan sebagai "Admin".
 
 </p>
